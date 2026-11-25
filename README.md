@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/zenganteng0987/u-deysumbrella-the-3am-fridge-text-4c3e721d/rank.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-the-3am-fridge-text-4c3e721d)
 [![reward](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/zenganteng0987/u-deysumbrella-the-3am-fridge-text-4c3e721d/reward.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-the-3am-fridge-text-4c3e721d)
 
-The one line a smart fridge texts its owner at 3am: a small machine with a big opinion about the pickles-over-the-sink situation.
+The one line a smart fridge texts its owner at 3am: a small machine with a big opinion — and no shame about judging the pickles-over-the-sink situation.
 
 ## Run it
 
